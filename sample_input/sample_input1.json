@@ -1,0 +1,5 @@
+{
+  "Text": "Hello world. This is a demonstration of our flexible, automated translation pipeline.",
+  "SourceLanguageCode": "en",
+  "TargetLanguageCodes": ["es", "fr"]
+}
