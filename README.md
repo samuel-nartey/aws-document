@@ -9,7 +9,7 @@ AWS CLI	AWS command line interface	aws.amazon.com/cli
 
 🏗️ Architecture Overview
 A serverless, event-driven document translation pipeline leveraging AWS native services for scalability, reliability, and cost-efficiency.
-![image alt](image_url)
+![image alt](https://github.com/samuel-nartey/aws-document/blob/fb0c6dbf4e9c33b3d8d5e81de566b8cdeb14f537/Capstone%20project.gif)
 
 Step 1: AWS Account Setup
 https:///docs/screenshots/prerequisites/aws-signup.pn
